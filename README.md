@@ -1,6 +1,3 @@
-# Did-You-Know
-HTML - only website that shares science based facts and debunks common myths.
-
 # 🌐 Did You Know?
 
 *Did You Know?* is an informative HTML-only website that helps users discover the truth behind popular facts and myths. It separates real facts from fake news using trusted sources like *NASA, **WHO, and **History.com*.
